@@ -35,7 +35,6 @@ Imports:
     scales,
     ggpubr,
     RColorBrewer,
-    data.table,
     ape,
     vegan,
     geiger,
